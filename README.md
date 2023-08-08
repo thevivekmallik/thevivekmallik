@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevivekmallik&label=Profile%20views&color=0e75b6&style=flat" alt="thevivekmallik" /> </p>
 
-- 🔭 I’m currently working on **Cyber-Security**
+- 🔭 I’m currently working on **Cyber-Security** as Intern
 
 - 👨‍💻 All of my projects are available at [https://thevivekmallik.github.io/](https://thevivekmallik.github.io/)
 
