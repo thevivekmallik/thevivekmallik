@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thevivekmallik.github.io/](https://thevivekmallik.github.io/)
 
-- 💬 Ask me about **C, html5, css, JavaScript, Php, ReactJs, NodeJs, ExpressJs, MongoDB, Java**
+- 💬 Ask me about **C, html5, Bootstrap, css, JavaScript, Php, ReactJs, NodeJs, ExpressJs, MongoDB, Java**
 
 - 📫 How to reach me **vivekgautam.ac@gmail.com**
 
