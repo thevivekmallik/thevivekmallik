@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevivekmallik&label=Profile%20views&color=0e75b6&style=flat" alt="thevivekmallik" /> </p>
 
-- 🔭 I’m currently working on **Cyber-Security** as Intern
+- 🔭 I’m currently final year student looking for full time role in full stack domain.
 
 - 👨‍💻 All of my projects are available at [https://thevivekmallik.github.io/](https://thevivekmallik.github.io/)
 
-- 💬 Ask me about **C, html5, Bootstrap, css, JavaScript, Php, ReactJs, NodeJs, ExpressJs, MongoDB, Java**
+- 💬 Ask me about **C,Java, Python, html5, Bootstrap, css, JavaScript, Php, ReactJs, MySQL, Django, Azure-cloud**
 
 - 📫 How to reach me **vivekgautam.ac@gmail.com**
 
